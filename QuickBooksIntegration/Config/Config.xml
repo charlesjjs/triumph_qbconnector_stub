@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+  <add key="api_key" value="" />
+
+  <add key="api_url_base" value="http://triumph.getventive.com" />
+  <add key="api_key_validity" value="api/v1/validate/api_key" />
+  
+  <add key="api_url_expenses_add" value="api/v1/expenses/add" />
+  <add key="api_url_profitloss_add" value="api/v1/profit-and-loss/add" />
+  <add key="qbfilename" value="" />
+
+</configuration>
